@@ -110,5 +110,11 @@
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=juankdawd&count_private=true&show_icons=true&bg_color=85,000,FF0000&text_color=FFF&title_color=FFF&icon_color=FFF&border_color=000" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5&count_private=true&show_icons=true&bg_color=85,000,FF0000&text_color=FFF&title_color=FFF&icon_color=FFF&border_color=000&layout=donut" alt="Top Lang">
+
+<br>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=juankdawd&count_private=true&show_icons=true&bg_color=85,000,FF0000&text_color=FFF&title_color=FFF&icon_color=FFF&border_color=000" alt="Github Stats"/>
+
 </div>
