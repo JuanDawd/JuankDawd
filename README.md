@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://juankdawd.github.io" target="blank">
-<img src="profilePicture.jpg" alt="Profile picture" />
+<img src="profilePicture.jpg" alt="Profile picture" style="width:200px;" />
 
 <h1> Hey! I'm Juank Dawd</h1>
 
