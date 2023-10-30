@@ -1,20 +1,20 @@
 <div align="center">
 
 <a href="https://juankdawd.github.io" target="blank">
-<img src="profilePicture.jpg" alt="Profile picture" style="width:200px;  border: 1px solid #333;
-  borderRadius: 20px;" />
-
-<h1> Hey! I'm Juank Dawd</h1>
-
+  <h1> Hey! I'm Juank Dawd</h1>
 </a>
 <h3> A Fullstack web developer from Colombia. </h3>
 
+<a href="https://github.com/juankdawd/" target="blank">
+  <img src="https://img.shields.io/badge/github%20-%23161b22.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Juan Dawd"/>
+</a>
+
 <a href="https://www.linkedin.com/in/juandawd/" target="blank">
-<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Juan Dawd"/>
+  <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Juan Dawd"/>
 </a>
 
 <a href="https://juankdawd.github.io" target="blank">
-<img src="https://img.shields.io/badge/website%20-%237100d3.svg?&style=for-the-badge&logoColor=white" alt="Juan Dawd"/>
+  <img src="https://img.shields.io/badge/website%20-%237100d3.svg?&style=for-the-badge&logoColor=white" alt="Juan Dawd"/>
 </a>
 </div>
 
