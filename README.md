@@ -9,10 +9,6 @@
 </a>
 <h3> A Fullstack web developer from Colombia. </h3>
 
-<a href="https://github.com/juankdawd/" target="blank">
-<img src="https://img.shields.io/badge/github%20-%23161b22.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Juan Dawd"/>
-</a>
-
 <a href="https://www.linkedin.com/in/juandawd/" target="blank">
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Juan Dawd"/>
 </a>
