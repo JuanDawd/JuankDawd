@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Juan Dawd"/>
 </a>
 
-<a href="https://juankdawd.github.io" target="blank">
+<a href="https://juankdawd-portfolio.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/website%20-%237100d3.svg?&style=for-the-badge&logoColor=white" alt="Juan Dawd"/>
 </a>
 </div>
